@@ -5,8 +5,11 @@
 ---
 
 ## 🧑‍💻 About Me  
-I am a Python & IT enthusiast currently preparing for **Japan Data Center & IT jobs**.  
-I enjoy building practical projects using **Python OOP**, Linux, Git, and automation scripts.
+🧑‍💻 **About Me**
+
+I am a passionate **Software Engineering enthusiast** currently developing my skills in **Python, OOP, Git, SQL, and backend development**.
+I enjoy building practical projects, solving programming problems, and continuously improving my software development skills through hands-on learning.
+My goal is to build a strong career as a **Software Engineer in Japan**.
 
 ---
 
