@@ -39,7 +39,7 @@ Python OOP based system for managing employees, attendance, and salary.
 ## 📫 Contact  
 - **GitHub:** https://github.com/lipumehedi  
 - **Email:** (mehedilipu@gmail.com)  
-- **LinkedIn:** (www.linkedin.com/in/md-mehedi-hasan-)
+- **LinkedIn:** (www.linkedin.com/in/hasan-md-mehedi--)
 
 ---
 
