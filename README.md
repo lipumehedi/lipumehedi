@@ -14,7 +14,7 @@ My goal is to build a strong career as a **Software Engineer in Japan**.
 ---
 
 ## 🚀 Skills  
-- **Programming:** Python, OOP, SQL  
+- **Programming:** Python, OOP, POSTGRESQL  
 - **Tools:** Git, GitHub  
 - **IT Skills:** Linux (Ubuntu), Server Setup, Networking Basics  
 - **Languages:** Japanese (JLPT N2), Bangla, English  
@@ -48,9 +48,8 @@ Python OOP based system for managing employees, attendance, and salary.
 
 ## 🌱 Currently Learning  
 - Python OOP Advanced  
-- Linux Server Administration  
-- Data Center Operations  
-- Japanese IT Communication
+- Backend Devloper
+
 
 ---
 
