@@ -14,9 +14,11 @@ My goal is to build a strong career as a **Software Engineer in Japan**.
 ---
 
 ## 🚀 Skills  
-- **Programming:** Python, OOP, POSTGRESQL  
-- **Tools:** Git, GitHub  
-- **IT Skills:** Linux (Ubuntu), Server Setup, Networking Basics  
+- **Programming:** Python, OOP
+- **Development Tools:** Git, GitHub, VScode
+- **Database:** POSTGRESQL
+- **Web / Backend:** HTML, CSS, Backend Development, Django
+- **IT Support / Infrastructure:** Windows, Computer Hardware & Troubleshooting, Networking Fundamentals, TCP/IP, Microsoft 365  
 - **Languages:** Japanese (JLPT N2), Bangla, English  
 - **Other:** AI & Generative AI (Beginner)
 
