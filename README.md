@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm MD Mehedi Hasan  
-### Python Developer | OOP | Git & GitHub | IT Engineer | Learner's
+### Python Developer | Backend Engineer | IT Engineer | Learner's
 
 ---
 
