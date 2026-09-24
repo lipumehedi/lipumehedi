@@ -18,7 +18,7 @@ My goal is to build a strong career as a **Software Engineer in Japan**.
 - **Development Tools:** Git, GitHub, VScode
 - **Database:** POSTGRESQL
 - **Web / Backend:** HTML, CSS, Backend Development, Django
-- **IT Support / Infrastructure:** Windows, Computer Hardware & Troubleshooting, Networking Fundamentals, TCP/IP, Microsoft 365  
+- **IT Support / Infrastructure:** Windows, Computer Hardware & Troubleshooting, Networking Fundamentals, Microsoft 365  
 - **Languages:** Japanese (JLPT N2), Bangla, English  
 - **Other:** AI & Generative AI (Beginner)
 
@@ -37,7 +37,7 @@ Python OOP based system for managing employees, attendance, and salary.
 ![OOP](https://img.shields.io/badge/OOP-Concepts-green)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-red?logo=linux)
+
 
 ---
 
