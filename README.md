@@ -99,6 +99,7 @@ A collection of Python fundamentals, practice exercises, and programming experim
 - **GitHub:** [github.com/lipumehedi](https://github.com/lipumehedi)
 - **LinkedIn:** [MD Mehedi Hasan](https://www.linkedin.com/in/hasan-md-mehedi--/)
 - **Email:** [mehedilipu@gmail.com](mailto:mehedilipu@gmail.com)
+- **Live Website:** [View My Portfolio](https://lipumehedi.github.io/mehedi-portfolio/)
 
 ---
 
