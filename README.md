@@ -88,7 +88,7 @@ My Python learning repository — fundamentals, OOP practice, programming exerci
 ## 📫 Connect With Me
 
 - **GitHub:** [github.com/lipumehedi](https://github.com/lipumehedi)
-- **LinkedIn:** MD Mehedi Hasan
+- **LinkedIn:** [MD Mehedi Hasan](https://www.linkedin.com/in/md-mehedi-hasan-a76401107)
 - **Email:** mehedilipu@gmail.com
 
 ## 🎯 My Goal
