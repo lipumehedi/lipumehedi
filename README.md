@@ -50,21 +50,28 @@ A web application built with Python and Django to practice backend development a
 **Focus:** Django application development and task management workflows
 **Repository:** [View Django Task Manager](https://github.com/lipumehedi/django-task-manager)
 
-### 4. Employee Management & Salary Management System
+### 4. Job Application Tracker
+A CLI tool I built while job hunting in Japan, to track my applications across Indeed, doda, LinkedIn, and Workport — add applications, update their status, and see simple statistics. Data is stored in JSON.
+
+**Tech Stack:** Python (argparse, dataclasses), JSON, unittest
+**Focus:** Clean CLI design, separating the data layer from the interface, unit testing
+**Repository:** [View Job Application Tracker](https://github.com/lipumehedi/job-application-tracker)
+
+### 5. Employee Management & Salary Management System
 A Python OOP-based application for managing employee information, attendance, and salary calculations based on working days.
 
 **Tech Stack:** Python, OOP, Git, GitHub
 **Focus:** Classes, objects, data management, and calculation logic
 **Repository:** [View Employee Management System](https://github.com/lipumehedi/Employee-Management-Salary-Management-System)
 
-### 5. Web Development — 30 Days Challenge
+### 6. Web Development — 30 Days Challenge
 A 30-day web development challenge featuring practical projects built with HTML, CSS, and JavaScript.
 
 **Tech Stack:** HTML, CSS, JavaScript
 **Focus:** Frontend fundamentals and interactive web pages
 **Repository:** [View Web Projects](https://github.com/lipumehedi/web-projects-30-days)
 
-### 6. Python Learning Journey
+### 7. Python Learning Journey
 My Python learning repository — fundamentals, OOP practice, programming exercises, and problem-solving, updated as I learn.
 
 **Tech Stack:** Python, OOP, Git, GitHub
@@ -89,7 +96,7 @@ My Python learning repository — fundamentals, OOP practice, programming exerci
 
 - **GitHub:** [github.com/lipumehedi](https://github.com/lipumehedi)
 - **LinkedIn:** [MD Mehedi Hasan](https://www.linkedin.com/in/md-mehedi-hasan-a76401107)
-- **Email:** mehedilipu@gmail.com
+- **Email:** [mehedilipu@gmail.com](mailto:mehedilipu@gmail.com)
 
 ## 🎯 My Goal
 
