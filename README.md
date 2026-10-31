@@ -1,6 +1,6 @@
 # Hi, I'm MD Mehedi Hasan 👋
 
-**Python Backend Developer | Django | SQL | Aspiring Software Engineer in Japan 🇯🇵**
+**Python Backend Developer | Software Engineer in Japan 🇯🇵**
 📍 Yokohama, Japan
 
 I'm a software development enthusiast focused on building practical applications with Python, Django, SQL, and Object-Oriented Programming (OOP).
@@ -29,49 +29,42 @@ I'm currently strengthening my backend development skills through hands-on proje
 
 ## 🚀 Featured Projects
 
-### 1. Japan Halal Shop Hub
-A Django-based web platform to discover halal shops, restaurants, and grocery stores across Japan — an idea from my own daily life as a Muslim living in Japan.
-
-**Tech Stack:** Python, Django, HTML, CSS
-**Focus:** Real-world problem solving, Django project structure, database-backed listings
-**Repository:** [View Japan Halal Shop Hub](https://github.com/lipumehedi/japan-halal-shop-hub)
-
-### 2. YouTube Clone — Django Practice
+### 1. YouTube Clone — Django Practice
 A YouTube-style video platform built with Django, including a home feed and Shorts pages, recreating the real YouTube layout.
 
 **Tech Stack:** Python, Django, HTML, CSS
 **Focus:** Django application architecture (separate apps per feature), templates, web development concepts
 **Repository:** [View YouTube Clone](https://github.com/lipumehedi/Youtube_Clone)
 
-### 3. Django Task Manager
+### 2. Django Task Manager
 A web application built with Python and Django to practice backend development and web application architecture.
 
 **Tech Stack:** Python, Django, HTML, CSS
 **Focus:** Django application development and task management workflows
 **Repository:** [View Django Task Manager](https://github.com/lipumehedi/django-task-manager)
 
-### 4. Job Application Tracker
+### 3. Job Application Tracker
 A CLI tool I built while job hunting in Japan, to track my applications across Indeed, doda, LinkedIn, and Workport — add applications, update their status, and see simple statistics. Data is stored in JSON.
 
 **Tech Stack:** Python (argparse, dataclasses), JSON, unittest
 **Focus:** Clean CLI design, separating the data layer from the interface, unit testing
 **Repository:** [View Job Application Tracker](https://github.com/lipumehedi/job-application-tracker)
 
-### 5. Employee Management & Salary Management System
+### 4. Employee Management & Salary Management System
 A Python OOP-based application for managing employee information, attendance, and salary calculations based on working days.
 
 **Tech Stack:** Python, OOP, Git, GitHub
 **Focus:** Classes, objects, data management, and calculation logic
 **Repository:** [View Employee Management System](https://github.com/lipumehedi/Employee-Management-Salary-Management-System)
 
-### 6. Web Development — 30 Days Challenge
+### 5. Web Development — 30 Days Challenge
 A 30-day web development challenge featuring practical projects built with HTML, CSS, and JavaScript.
 
 **Tech Stack:** HTML, CSS, JavaScript
 **Focus:** Frontend fundamentals and interactive web pages
 **Repository:** [View Web Projects](https://github.com/lipumehedi/web-projects-30-days)
 
-### 7. Python Learning Journey
+### 6. Python Learning Journey
 My Python learning repository — fundamentals, OOP practice, programming exercises, and problem-solving, updated as I learn.
 
 **Tech Stack:** Python, OOP, Git, GitHub
@@ -80,7 +73,6 @@ My Python learning repository — fundamentals, OOP practice, programming exerci
 
 ## 📚 Currently Learning
 
-- Python programming and advanced OOP concepts
 - Django backend development
 - SQL and relational database design
 - JavaScript and web development fundamentals
